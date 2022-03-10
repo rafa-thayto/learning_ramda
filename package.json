@@ -19,5 +19,13 @@
   "homepage": "https://github.com/rafa-thayto/learning_ramda#readme",
   "dependencies": {
     "ramda": "^0.28.0"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
