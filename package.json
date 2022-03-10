@@ -1,0 +1,23 @@
+{
+  "name": "learning_ramda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafa-thayto/learning_ramda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafa-thayto/learning_ramda/issues"
+  },
+  "homepage": "https://github.com/rafa-thayto/learning_ramda#readme",
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
+}
